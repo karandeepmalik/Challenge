@@ -13,5 +13,6 @@ public class MyApplication extends Application{
         HashSet h = new HashSet<Class<?>>();
         h.add( ConigitalChallenge.class );
         return h;
+
     }
 }
